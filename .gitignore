@@ -1,0 +1,9 @@
+/.bundle
+/build
+/.sass-cache
+.DS_Store
+.cache
+.terraform
+*.tfstate.backup
+*.tfstate
+terraform.tfvars
